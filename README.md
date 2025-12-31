@@ -65,5 +65,5 @@ The crown jewel of the project — an interactive dashboard.
 ## ✅ Key Achievements
 
 - **Dataset Cleaned**: Transformed raw disaster data into a machine-learning-ready format.
-- **Robust Modeling**: Implemented 10+ different algorithms across 3 ML domains.
+- [x] Robust Modeling: Implemented various algorithms (KNN, SVM, Random Forest, MLP, XGBoost, etc.) across 3 ML domains.
 - **Interactive UI**: Developed a custom tuning interface within Jupyter for real-time model evaluation.

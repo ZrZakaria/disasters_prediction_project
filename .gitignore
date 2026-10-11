@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Report build artifacts
+rapport/*.aux
+rapport/*.log
+rapport/*.fls
+rapport/*.fdb_latexmk
+rapport/*.out
+rapport/*.toc
+rapport/*.synctex.gz
